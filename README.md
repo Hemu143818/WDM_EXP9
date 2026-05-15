@@ -1,5 +1,7 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 15-05-2026
+## NAME: K HEMANTH YADAV
+## REG: 212224100033
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +28,10 @@ for this purpose.
 
 
 ### Output:
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/7e2bbc97-ac9c-4e9d-a8fc-2c45b920a32a" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/697c3c21-5774-4d60-8f7f-0c3bc883af59" />
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/18acf646-5531-4dff-b09b-b7ee7d52bf1b" />
 
 ### Result:
+implemented preprocessing technique on Twitter Data using Rapidminer successfully
